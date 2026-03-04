@@ -121,6 +121,13 @@ Just native macOS automation.
 
 ---
 
+## Want More Profiles?
+
+Terminal.app ships with a handful of built-in profiles, but you can install many more.
+Check out [macos-terminal-themes](https://github.com/lysyi3m/macos-terminal-themes) for a large collection of color schemes ready to import into Terminal.app.
+
+---
+
 ## Contributing
 
 Issues and PRs welcome.
